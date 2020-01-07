@@ -3,7 +3,5 @@ theme: jekyll-theme-time-machine
  scope:
   path: "webmail.md"
     type: "pages"
-   
-  values:
-    layout: "Webmail" 
-    author: "Mr. Hyde"
+values:
+ layout: "Webmail"
