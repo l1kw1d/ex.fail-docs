@@ -1,7 +1,3 @@
- defaults:
-  -
-  scope:
-      path: "webmail.md"
-    values:
-      layout: "Webmail"
 theme: jekyll-theme-time-machine
+Title: Docs 
+Path: "webmail.md"
