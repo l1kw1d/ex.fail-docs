@@ -1,2 +1,9 @@
 theme: jekyll-theme-time-machine
-Webmail-HOWTO: webmail.md
+ -
+ scope:
+  path: "webmail.md"
+    type: "pages"
+   
+  values:
+    layout: "Webmail" 
+    author: "Mr. Hyde"
