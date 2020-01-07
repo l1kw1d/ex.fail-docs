@@ -1,7 +1,7 @@
 theme: jekyll-theme-time-machine
- -
- scope:
-  path: "webmail.md"
-    type: "pages"
-values:
- layout: "Webmail"
+ defaults:
+  -
+  scope:
+      path: "webmail.md"
+    values:
+      layout: "Webmail"
