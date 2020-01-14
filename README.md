@@ -1,3 +1,4 @@
+[![Known Vulnerabilities](https://snyk.io/test/github/l1kw1d/Cookies/badge.svg?targetFile=package.json)](https://snyk.io/test/github/l1kw1d/Cookies?targetFile=package.json)
 ## Welcome to Webmail Help - More help available @ [OpenSRS](https://help.opensrs.com/hc/en-us/articles/204075276-The-complete-Webmail-guide)
 
 Webmail provides you with access to your personal email, calendar, contacts and file
